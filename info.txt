@@ -1,0 +1,152 @@
+task_struct :
+    unsigned long long  last_burst_time;        //o xronos teleutaias ektelesis
+    double  exp_burst_time;                     //o ektimwmenos xronos epomenis ektelesis
+    unsigned long long  get_cpu_time;           // pote pairnei tin cpu
+    unsigned long long  entry_queue_time;       // pote afinei tin cpu kai mpainei stin ouras
+    double  goodness;                           //to goodness tis kathe diergasias, to xrisimopoihoume mono stin print_tasks
+
+methods:
+    double minimum_Exp_Burst();
+    unsigned long long maximum_WaitingInRQ();
+    void print_tasks(int goodness);
+
+
+TESTS RESULTS
+
+O algorithmos pou ulopoioume onomazetai Shortest Job First (SJF) or Shortest Time to Completion First (SCTF).Episis o algorithmos ine Pre-emptive pou simainei oti mporoume na paroume ton epeksergasti apo tin trexousa diergasia ana pasa stigmi.
+Ston fakelo results uparxoun oi fakeloi Both,Interactive,Non-interactive ,Starvation.O kathenas periexei to configuration file me to paradeigma
+pou ftiaksame kai ena arxeio txt me to apotelesma tis kathe methodou(exp_burst,goodness,standard_sjf).O fakelos starvation periexei ena paradeigma
+me to opoio vlepoume pws trexei i kathe methodos.
+
+1. NON-INTERACTIVE
+2. INTERACTIVE
+3. NON-INTERACTIVE & INTERACTIVE
+  
+Stis treis parapanw periptwseis o algorithmos leitourgei kanonika opws perimename.I Kathe diergasia pairnei ton epeksergasti analoga me tin proteraiotita tis(exp_burst,goodness).Se periptwsi pou kapoia diergasia koimithei i xreiastei na kanei I/0 afinei ton epeksergasti kai o algorithmos frontizei na dwsei ton epeksergasti stin diergasia me tin kaluteri proteraiotita.(afairei tin idia diergasia apo tin oura gia oso koimatai kai tin epanaferei otan teliwsei tin douleia tis).
+
+
+4. Starvation problem at SJF.
+    
+    Tha exoume starvation kapoias diergasias se sygkekrimena paradeigmata
+    opws otan mia diergasia exei spawntime: 20ms k exei workduration
+    400 kai duo diergasies exoun spawntime: sto 350ms kai 370ms antistoixa
+    me workduration: 200ms i kathemia, tote i prwti diergasia tha limoktonei
+    kathws, eksaitias tou megalou sunexomenoy xronou ektelesis, tha exei megalo
+    expexted burst time kati to opoio sunepagetai oti den tha treksei mexri na 
+    vrethei kapoia me megalytero expected burst time.
+
+    Opws paratirisame apo ta paradeigmata pou treksame , me ti methodo Expected Burst Time
+    uparxei pliris starvation, opws kai me ton Standard Algorithm SJF.
+    Antitheta me ti methodo Goodness to provlima diorthwnetai se megalo vathmo kai en teli
+    i diergasia pairnei ton epeksergastei se suntomo xroniko diastima.
+
+    Ta apotelesmata einai sta arxeia
+    starv-Exp_burst.txt
+    starv-Goodness.txt
+    starv-Standar_SJF.txt
+
+    Pio sugkekrimena estw to paradeigma:
+
+    #CYCLE_TIME 10
+    #SEED       43
+    #ENDTIME    900
+
+    #NEWPROCESS
+    #TYPE       NONINTERACTIVE
+    #NAME       Papakia
+    #SPAWNTIME  20
+    #KILLTIME   890
+    #WORKDURATION   500
+    #ENDPROCESS
+
+    #NEWPROCESS
+    #TYPE       NONINTERACTIVE
+    #NAME       Vatraxakia
+    #SPAWNTIME  350
+    #WORKDURATION   200
+    #KILLTIME   850
+    #ENDPROCESS
+
+    #NEWPROCESS
+    #TYPE       NONINTERACTIVE
+    #NAME       Paokara
+    #SPAWNTIME  370
+    #WORKDURATION   200
+    #KILLTIME   850
+    #ENDPROCESS
+
+
+    Pio sugkekrimena trexontas ws paradeigma to starvation_test.conf me expected_burst_time.
+
+    (Vatraxakia:2)/100/359ms - Switching Process In
+    ***CURRENT: 0x10173c0 = (Vatraxakia:2)***
+    Processes values:
+    Time is: 360 ms
+    Process: (Vatraxakia:2) 
+    exp_burst_time = 0.000000   last_burst_time = 0 get_cpu_time = 360000000        entry_queue_time = 0
+    remaining time of process to run: 100000
+
+    Process: (Papakia:1)    
+    exp_burst_time = 300000000.000000   last_burst_time = 340000000 get_cpu_time = 20000000     entry_queue_time = 360000000
+    remaining time of process to run: 80001
+
+    .
+    .
+    .
+
+    ###-Process: (Paokara:3) has been created-###
+    (Paokara:3)/100/370ms - Switching Process In
+    ***CURRENT: 0x1017490 = (Paokara:3)***
+    Processes values:
+    Time is: 370 ms
+    Process: (Paokara:3)    
+    exp_burst_time = 0.000000   last_burst_time = 0 get_cpu_time = 370000000        entry_queue_time = 0
+    remaining time of process to run: 100000
+
+    Process: (Vatraxakia:2) 
+    exp_burst_time = 8888888.888889 last_burst_time = 10000000  get_cpu_time = 360000000        entry_queue_time = 370000000
+    remaining time of process to run: 94999
+
+    Process: (Papakia:1)    
+    exp_burst_time = 300000000.000000   last_burst_time = 340000000 get_cpu_time = 20000000     entry_queue_time = 360000000
+    remaining time of process to run: 80001
+
+    .
+    .
+    .
+
+    CDA: thread (Paokara:3) finished
+    ###-Process: (Paokara:3) is going down-###
+    ***CURRENT: 0x10173c0 = (Vatraxakia:2)***
+    Processes values:
+    Time is: 750 ms
+    Process: (Vatraxakia:2) 
+    exp_burst_time = 75384323.001048    last_burst_time = 80000000  get_cpu_time = 620000000        entry_queue_time = 700000000
+    remaining time of process to run: 4999
+
+    Process: (Papakia:1)    
+    exp_burst_time = 300000000.000000   last_burst_time = 340000000 get_cpu_time = 20000000     entry_queue_time = 360000000
+    remaining time of process to run: 80001
+
+    .
+    .
+    .
+
+    CDA: thread (Vatraxakia:2) finished
+    ###-Process: (Vatraxakia:2) is going down-###
+    (Papakia:1)/100/760ms - Switching Process In
+    ***CURRENT: 0x10172f0 = (Papakia:1)***
+    Processes values:
+    Time is: 760 ms
+    Process: (Papakia:1)    
+    exp_burst_time = 300000000.000000   last_burst_time = 340000000 get_cpu_time = 760000000        entry_queue_time = 0
+    remaining time of process to run: 80001
+
+    Paratiroume oti i diergasia papakia den ksanaekteleitai mexri na teleiwsoun oi alles duo diergasies, auto einai fanero
+    apo to remaining time pou exei i diergasia pou einai idio me auto tin xroniki stigmi 359ms pou pire ton epeksergasti 
+    i diergasia Vatraxakia. Ara Starvation se sugkekrimenes periptwseis apo ton SJF scheduler.
+
+    SUNOPTIKA:
+
+    O algorithmos sjf ine genika dikaios me oles tis diergasies(kai oi 3 methodoi).To mono provlima tou ine oti dn proteinetai stin periptwsi pou exoume na ekponisoume ena megalo ergo.Tote prokaleitai to fainomeno limoktonias pou perigrapsame pio panw analutika.Ostoso i methodos tou goodness fainetai oti lunei to provlima se ikanopoiitiko vathmo , ara o algorithmos autos ine se genika plaisia apodotikos.
+    
