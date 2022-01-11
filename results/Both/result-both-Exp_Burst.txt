@@ -1,0 +1,498 @@
+###-Starting CPU-###
+(Init:0)/0/0ms - Switching Process In
+(Init:0)/0/9ms - Switching Process In
+(Init:0)/0/19ms - Switching Process In
+(Init:0)/0/29ms - Switching Process In
+(Init:0)/0/39ms - Switching Process In
+###-Process: (Papakia:1) has been created-###
+(Papakia:1)/100/40ms - Switching Process In
+***CURRENT: 0x12a02f0 = (Papakia:1)***
+Processes values:
+Time is: 40 ms
+Process: (Papakia:1)	
+exp_burst_time = 0.000000	last_burst_time = 0	get_cpu_time = 40000000		entry_queue_time = 0
+remaining time of process to run: 10000
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x12a02f0 = (Papakia:1)***
+Processes values:
+Time is: 50 ms
+Process: (Papakia:1)	
+exp_burst_time = 0.000000	last_burst_time = 0	get_cpu_time = 40000000		entry_queue_time = 0
+remaining time of process to run: 5001
+
+
+ 
+ 
+###-Process: (Vatraxakia:2) has been created-###
+***CURRENT: 0x12a02f0 = (Papakia:1)***
+Processes values:
+Time is: 50 ms
+Process: (Vatraxakia:2)	
+exp_burst_time = 0.000000	last_burst_time = 0	get_cpu_time = 0		entry_queue_time = 50000000
+remaining time of process to run: 10000
+
+Process: (Papakia:1)	
+exp_burst_time = 6666666.666667	last_burst_time = 10000000	get_cpu_time = 40000000		entry_queue_time = 50000000
+remaining time of process to run: 5000
+
+
+ 
+ 
+(Vatraxakia:2)/100/59ms - Switching Process In
+***CURRENT: 0x12a03c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 60 ms
+Process: (Vatraxakia:2)	
+exp_burst_time = 0.000000	last_burst_time = 0	get_cpu_time = 60000000		entry_queue_time = 0
+remaining time of process to run: 10000
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+***CURRENT: 0x12a03c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 70 ms
+Process: (Vatraxakia:2)	
+exp_burst_time = 6666666.666667	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 5000
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+###-Process: (Paokara:3) has been created-###
+(Paokara:3)/100/70ms - Switching Process In
+***CURRENT: 0x12a0490 = (Paokara:3)***
+Processes values:
+Time is: 70 ms
+Process: (Paokara:3)	
+exp_burst_time = 0.000000	last_burst_time = 0	get_cpu_time = 70000000		entry_queue_time = 0
+remaining time of process to run: 20000
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+***CURRENT: 0x12a0490 = (Paokara:3)***
+Processes values:
+Time is: 80 ms
+Process: (Paokara:3)	
+exp_burst_time = 6666666.666667	last_burst_time = 10000000	get_cpu_time = 70000000		entry_queue_time = 80000000
+remaining time of process to run: 15001
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+###-Process: (Paokara:4) has been created-###
+(Paokara:4)/100/80ms - Switching Process In
+***CURRENT: 0x12a0910 = (Paokara:4)***
+Processes values:
+Time is: 80 ms
+Process: (Paokara:4)	
+exp_burst_time = 0.000000	last_burst_time = 0	get_cpu_time = 80000000		entry_queue_time = 0
+remaining time of process to run: 20000
+
+Process: (Paokara:3)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 70000000		entry_queue_time = 80000000
+remaining time of process to run: 15000
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+***CURRENT: 0x12a0910 = (Paokara:4)***
+Processes values:
+Time is: 90 ms
+Process: (Paokara:4)	
+exp_burst_time = 6666666.666667	last_burst_time = 10000000	get_cpu_time = 80000000		entry_queue_time = 90000000
+remaining time of process to run: 15001
+
+Process: (Paokara:3)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 70000000		entry_queue_time = 80000000
+remaining time of process to run: 15000
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+***CURRENT: 0x12a0910 = (Paokara:4)***
+Processes values:
+Time is: 100 ms
+Process: (Paokara:4)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10001
+
+Process: (Paokara:3)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 70000000		entry_queue_time = 80000000
+remaining time of process to run: 15000
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+###-Process: (Paokara:5) has been created-###
+(Paokara:5)/100/100ms - Switching Process In
+***CURRENT: 0x12a09e0 = (Paokara:5)***
+Processes values:
+Time is: 100 ms
+Process: (Paokara:5)	
+exp_burst_time = 0.000000	last_burst_time = 0	get_cpu_time = 100000000		entry_queue_time = 0
+remaining time of process to run: 10000
+
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10000
+
+Process: (Paokara:3)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 70000000		entry_queue_time = 80000000
+remaining time of process to run: 15000
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+***CURRENT: 0x12a09e0 = (Paokara:5)***
+Processes values:
+Time is: 110 ms
+Process: (Paokara:5)	
+exp_burst_time = 6666666.666667	last_burst_time = 10000000	get_cpu_time = 100000000		entry_queue_time = 110000000
+remaining time of process to run: 5001
+
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10000
+
+Process: (Paokara:3)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 70000000		entry_queue_time = 80000000
+remaining time of process to run: 15000
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+***CURRENT: 0x12a09e0 = (Paokara:5)***
+Processes values:
+Time is: 120 ms
+Process: (Paokara:5)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 100000000		entry_queue_time = 120000000
+remaining time of process to run: 1
+
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10000
+
+Process: (Paokara:3)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 70000000		entry_queue_time = 80000000
+remaining time of process to run: 15000
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+CDA: thread (Paokara:5) finished
+###-Process: (Paokara:5) is going down-###
+(Paokara:3)/100/120ms - Switching Process In
+***CURRENT: 0x12a0490 = (Paokara:3)***
+Processes values:
+Time is: 120 ms
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10000
+
+Process: (Paokara:3)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 120000000		entry_queue_time = 0
+remaining time of process to run: 15000
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+***CURRENT: 0x12a0490 = (Paokara:3)***
+Processes values:
+Time is: 130 ms
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10000
+
+Process: (Paokara:3)	
+exp_burst_time = 9629629.629630	last_burst_time = 10000000	get_cpu_time = 120000000		entry_queue_time = 130000000
+remaining time of process to run: 10001
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 60000000		entry_queue_time = 70000000
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+(Vatraxakia:2)/100/139ms - Switching Process In
+***CURRENT: 0x12a03c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 140 ms
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10000
+
+Process: (Paokara:3)	
+exp_burst_time = 16543209.876543	last_burst_time = 20000000	get_cpu_time = 120000000		entry_queue_time = 140000000
+remaining time of process to run: 5001
+
+Process: (Vatraxakia:2)	
+exp_burst_time = 8888888.888889	last_burst_time = 10000000	get_cpu_time = 140000000		entry_queue_time = 0
+remaining time of process to run: 4999
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 40000000		entry_queue_time = 60000000
+remaining time of process to run: 1
+
+
+ 
+ 
+CDA: thread (Vatraxakia:2) finished
+###-Process: (Vatraxakia:2) is going down-###
+(Papakia:1)/100/149ms - Switching Process In
+***CURRENT: 0x12a02f0 = (Papakia:1)***
+Processes values:
+Time is: 140 ms
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10000
+
+Process: (Paokara:3)	
+exp_burst_time = 16543209.876543	last_burst_time = 20000000	get_cpu_time = 120000000		entry_queue_time = 140000000
+remaining time of process to run: 5001
+
+Process: (Papakia:1)	
+exp_burst_time = 15555555.555556	last_burst_time = 20000000	get_cpu_time = 140000000		entry_queue_time = 0
+remaining time of process to run: 1
+
+
+ 
+ 
+CDA: thread (Papakia:1) finished
+###-Process: (Papakia:1) is going down-###
+(Paokara:3)/100/150ms - Switching Process In
+***CURRENT: 0x12a0490 = (Paokara:3)***
+Processes values:
+Time is: 150 ms
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10000
+
+Process: (Paokara:3)	
+exp_burst_time = 16543209.876543	last_burst_time = 20000000	get_cpu_time = 150000000		entry_queue_time = 0
+remaining time of process to run: 5001
+
+
+ 
+ 
+(Paokara:3)/100/159ms - Switching Process In
+Process : (Paokara:3) continues to run
+***CURRENT: 0x12a0490 = (Paokara:3)***
+Processes values:
+Time is: 160 ms
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 80000000		entry_queue_time = 100000000
+remaining time of process to run: 10000
+
+Process: (Paokara:3)	
+exp_burst_time = 16543209.876543	last_burst_time = 20000000	get_cpu_time = 150000000		entry_queue_time = 0
+remaining time of process to run: 1
+
+
+ 
+ 
+CDA: thread (Paokara:3) finished
+###-Process: (Paokara:3) is going down-###
+(Paokara:4)/100/160ms - Switching Process In
+***CURRENT: 0x12a0910 = (Paokara:4)***
+Processes values:
+Time is: 160 ms
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 160000000		entry_queue_time = 0
+remaining time of process to run: 10000
+
+
+ 
+ 
+Process : (Paokara:4) continues to run
+***CURRENT: 0x12a0910 = (Paokara:4)***
+Processes values:
+Time is: 170 ms
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 160000000		entry_queue_time = 0
+remaining time of process to run: 5001
+
+
+ 
+ 
+Process : (Paokara:4) continues to run
+***CURRENT: 0x12a0910 = (Paokara:4)***
+Processes values:
+Time is: 180 ms
+Process: (Paokara:4)	
+exp_burst_time = 18518518.518519	last_burst_time = 20000000	get_cpu_time = 160000000		entry_queue_time = 0
+remaining time of process to run: 1
+
+
+ 
+ 
+CDA: thread (Paokara:4) finished
+###-Process: (Paokara:4) is going down-###
+(Init:0)/0/180ms - Switching Process In
+(Init:0)/0/189ms - Switching Process In
+(Init:0)/0/199ms - Switching Process In
+(Init:0)/0/209ms - Switching Process In
+(Init:0)/0/219ms - Switching Process In
+(Init:0)/0/229ms - Switching Process In
+(Init:0)/0/239ms - Switching Process In
+(Init:0)/0/249ms - Switching Process In
+(Init:0)/0/259ms - Switching Process In
+(Init:0)/0/269ms - Switching Process In
+(Init:0)/0/279ms - Switching Process In
+(Init:0)/0/289ms - Switching Process In
+(Init:0)/0/299ms - Switching Process In
+(Init:0)/0/309ms - Switching Process In
+(Init:0)/0/319ms - Switching Process In
+(Init:0)/0/329ms - Switching Process In
+(Init:0)/0/339ms - Switching Process In
+(Init:0)/0/349ms - Switching Process In
+(Init:0)/0/359ms - Switching Process In
+(Init:0)/0/369ms - Switching Process In
+(Init:0)/0/379ms - Switching Process In
+(Init:0)/0/389ms - Switching Process In
+(Init:0)/0/399ms - Switching Process In
+(Init:0)/0/409ms - Switching Process In
+(Init:0)/0/419ms - Switching Process In
+(Init:0)/0/429ms - Switching Process In
+(Init:0)/0/439ms - Switching Process In
+(Init:0)/0/449ms - Switching Process In
+(Init:0)/0/459ms - Switching Process In
+(Init:0)/0/469ms - Switching Process In
+(Init:0)/0/479ms - Switching Process In
+(Init:0)/0/489ms - Switching Process In
+(Init:0)/0/499ms - Switching Process In
+(Init:0)/0/509ms - Switching Process In
+(Init:0)/0/519ms - Switching Process In
+(Init:0)/0/529ms - Switching Process In
+(Init:0)/0/539ms - Switching Process In
+(Init:0)/0/549ms - Switching Process In
+(Init:0)/0/559ms - Switching Process In
+(Init:0)/0/569ms - Switching Process In
+(Init:0)/0/579ms - Switching Process In
+(Init:0)/0/589ms - Switching Process In
+(Init:0)/0/599ms - Switching Process In
+(Init:0)/0/609ms - Switching Process In
+(Init:0)/0/619ms - Switching Process In
+###-An Interrupt has fired!-###
+(Init:0)/0/622ms - Switching Process In
+(Init:0)/0/629ms - Switching Process In
+(Init:0)/0/639ms - Switching Process In
+(Init:0)/0/649ms - Switching Process In
+(Init:0)/0/659ms - Switching Process In
+(Init:0)/0/669ms - Switching Process In
+(Init:0)/0/679ms - Switching Process In
+(Init:0)/0/689ms - Switching Process In
+(Init:0)/0/699ms - Switching Process In
+(Init:0)/0/709ms - Switching Process In
+(Init:0)/0/719ms - Switching Process In
+(Init:0)/0/729ms - Switching Process In
+(Init:0)/0/739ms - Switching Process In
+(Init:0)/0/749ms - Switching Process In
+(Init:0)/0/759ms - Switching Process In
+(Init:0)/0/769ms - Switching Process In
+(Init:0)/0/779ms - Switching Process In
+(Init:0)/0/789ms - Switching Process In
+(Init:0)/0/799ms - Switching Process In
+(Init:0)/0/809ms - Switching Process In
+(Init:0)/0/819ms - Switching Process In
+(Init:0)/0/829ms - Switching Process In
+(Init:0)/0/839ms - Switching Process In
+(Init:0)/0/849ms - Switching Process In
+(Init:0)/0/859ms - Switching Process In
+(Init:0)/0/869ms - Switching Process In
+(Init:0)/0/879ms - Switching Process In
+(Init:0)/0/889ms - Switching Process In
+(Init:0)/0/899ms - Switching Process In
+###-Sending Kill Message-###
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###

@@ -1,0 +1,1269 @@
+###-Starting CPU-###
+(Init:0)/0/0ms - Switching Process In
+(Init:0)/0/9ms - Switching Process In
+(Init:0)/0/19ms - Switching Process In
+###-Process: (Papakia:1) has been created-###
+(Papakia:1)/100/20ms - Switching Process In
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 20 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 250000
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 30 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 245001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 40 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 240001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 50 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 235001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 60 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 230001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 70 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 225001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 80 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 220001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 90 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 215001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 100 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 210001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 110 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 205001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 120 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 200001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 130 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 195001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 140 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 190001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 150 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 185001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 160 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 180001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 170 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 175001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 180 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 170001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 190 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 165001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 200 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 160001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 210 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 155001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 220 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 150001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 230 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 145001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 240 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 140001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 250 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 135001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 260 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 130001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 270 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 125001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 280 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 120001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 290 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 115001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 300 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 110001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 310 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 105001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 320 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 100001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 330 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 95001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 340 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 90001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 350 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 85001
+
+
+ 
+ 
+###-Process: (Vatraxakia:2) has been created-###
+(Vatraxakia:2)/100/350ms - Switching Process In
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 350 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 100000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 360 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.000000
+remaining time of process to run: 95001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 370 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.000000
+remaining time of process to run: 90001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+###-Process: (Paokara:3) has been created-###
+(Paokara:3)/100/370ms - Switching Process In
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 370 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 100000
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 380 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 1.000000
+remaining time of process to run: 95001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 390 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 1.000000
+remaining time of process to run: 90001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 400 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 1.360000
+remaining time of process to run: 85001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 410 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 1.893333
+remaining time of process to run: 80001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 420 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 2.431111
+remaining time of process to run: 75001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 430 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 2.970370
+remaining time of process to run: 70001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 440 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 3.510123
+remaining time of process to run: 65001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 450 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 4.050041
+remaining time of process to run: 60001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 460 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 4.590014
+remaining time of process to run: 55001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 470 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 5.130004
+remaining time of process to run: 50001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 480 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 5.670001
+remaining time of process to run: 45001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 490 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 6.210000
+remaining time of process to run: 40001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 500 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 6.750000
+remaining time of process to run: 35001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 510 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 7.290000
+remaining time of process to run: 30001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 520 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 7.830000
+remaining time of process to run: 25001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 530 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 8.370000
+remaining time of process to run: 20001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 540 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 8.910000
+remaining time of process to run: 15001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 550 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 9.450000
+remaining time of process to run: 10001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 560 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 9.990000
+remaining time of process to run: 5001
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x1683490 = (Paokara:3)***
+Processes values:
+Time is: 570 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 10.529999
+remaining time of process to run: 1
+
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+CDA: thread (Paokara:3) finished
+###-Process: (Paokara:3) is going down-###
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 570 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 18518519.518519
+remaining time of process to run: 90000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 580 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.000000
+remaining time of process to run: 85001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 590 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.000000
+remaining time of process to run: 80001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 600 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.080559
+remaining time of process to run: 75001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 610 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.148065
+remaining time of process to run: 70001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 620 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.200870
+remaining time of process to run: 65001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+###-An Interrupt has fired!-###
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 620 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.218472
+remaining time of process to run: 64001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 630 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.254642
+remaining time of process to run: 60001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 640 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.297002
+remaining time of process to run: 55001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 650 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.341425
+remaining time of process to run: 50001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 660 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.386536
+remaining time of process to run: 45001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 670 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.431875
+remaining time of process to run: 40001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 680 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.477292
+remaining time of process to run: 35001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 690 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.522734
+remaining time of process to run: 30001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 700 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.568184
+remaining time of process to run: 25001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 710 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.613637
+remaining time of process to run: 20001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 720 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.659091
+remaining time of process to run: 15001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 730 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.704546
+remaining time of process to run: 10001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 740 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.750000
+remaining time of process to run: 5001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+***CURRENT: 0x16833c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 750 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.795455
+remaining time of process to run: 1
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+CDA: thread (Vatraxakia:2) finished
+###-Process: (Vatraxakia:2) is going down-###
+(Papakia:1)/100/750ms - Switching Process In
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 750 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 85000
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 760 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 80001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 770 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 75001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 780 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 70001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 790 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 65001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 800 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 60001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 810 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 55001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 820 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 50001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 830 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 45001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 840 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 40001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 850 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 35001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 860 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 30001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 870 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 25001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 880 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 20001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 890 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 15001
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x16832f0 = (Papakia:1)***
+Processes values:
+Time is: 900 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 220000001.000000
+remaining time of process to run: 10001
+
+
+ 
+ 
+###-Sending Kill Message-###
+###-Process: (Papakia:1) is going down-###
+(Init:0)/0/900ms - Switching Process In
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###

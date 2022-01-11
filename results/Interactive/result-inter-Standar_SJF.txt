@@ -1,0 +1,190 @@
+###-Starting CPU-###
+(Init:0)/0/0ms - Switching Process In
+(Init:0)/0/9ms - Switching Process In
+(Init:0)/0/19ms - Switching Process In
+(Init:0)/0/29ms - Switching Process In
+(Init:0)/0/39ms - Switching Process In
+###-Process: (Papakia:1) has been created-###
+(Papakia:1)/100/40ms - Switching Process In
+***CURRENT: 0x25952f0 = (Papakia:1)***
+Processes values:
+Time is: 40 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 10000
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x25952f0 = (Papakia:1)***
+Processes values:
+Time is: 50 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 5001
+
+
+ 
+ 
+###-Process: (Vatraxakia:2) has been created-###
+(Vatraxakia:2)/100/50ms - Switching Process In
+***CURRENT: 0x25953c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 50 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 10000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 6666667.666667
+remaining time of process to run: 5000
+
+
+ 
+ 
+***CURRENT: 0x25953c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 60 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 1.000000
+remaining time of process to run: 5001
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 6666667.666667
+remaining time of process to run: 5000
+
+
+ 
+ 
+***CURRENT: 0x25953c0 = (Vatraxakia:2)***
+Processes values:
+Time is: 70 ms
+Process: (Vatraxakia:2)	
+GOODNESS of this process is: 2.333333
+remaining time of process to run: 1
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 6666667.666667
+remaining time of process to run: 5000
+
+
+ 
+ 
+CDA: thread (Vatraxakia:2) finished
+###-Process: (Vatraxakia:2) is going down-###
+(Papakia:1)/100/70ms - Switching Process In
+***CURRENT: 0x25952f0 = (Papakia:1)***
+Processes values:
+Time is: 70 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 6666667.666667
+remaining time of process to run: 5000
+
+
+ 
+ 
+###-Process: (Paokara:3) has been created-###
+(Paokara:3)/100/70ms - Switching Process In
+***CURRENT: 0x25953c0 = (Paokara:3)***
+Processes values:
+Time is: 70 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 0.000000
+remaining time of process to run: 10000
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 2222223.222222
+remaining time of process to run: 4999
+
+
+ 
+ 
+***CURRENT: 0x25953c0 = (Paokara:3)***
+Processes values:
+Time is: 80 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 2.999999
+remaining time of process to run: 5002
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 2222223.222222
+remaining time of process to run: 4999
+
+
+ 
+ 
+***CURRENT: 0x25953c0 = (Paokara:3)***
+Processes values:
+Time is: 90 ms
+Process: (Paokara:3)	
+GOODNESS of this process is: 6.999997
+remaining time of process to run: 2
+
+Process: (Papakia:1)	
+GOODNESS of this process is: 2222223.222222
+remaining time of process to run: 4999
+
+
+ 
+ 
+CDA: thread (Paokara:3) finished
+###-Process: (Paokara:3) is going down-###
+(Papakia:1)/100/90ms - Switching Process In
+***CURRENT: 0x25952f0 = (Papakia:1)***
+Processes values:
+Time is: 90 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 2222223.222222
+remaining time of process to run: 4999
+
+
+ 
+ 
+Process : (Papakia:1) continues to run
+***CURRENT: 0x25952f0 = (Papakia:1)***
+Processes values:
+Time is: 100 ms
+Process: (Papakia:1)	
+GOODNESS of this process is: 2222223.222222
+remaining time of process to run: 1
+
+
+ 
+ 
+CDA: thread (Papakia:1) finished
+###-Process: (Papakia:1) is going down-###
+(Init:0)/0/100ms - Switching Process In
+(Init:0)/0/109ms - Switching Process In
+(Init:0)/0/119ms - Switching Process In
+(Init:0)/0/129ms - Switching Process In
+(Init:0)/0/139ms - Switching Process In
+(Init:0)/0/149ms - Switching Process In
+(Init:0)/0/159ms - Switching Process In
+(Init:0)/0/169ms - Switching Process In
+(Init:0)/0/179ms - Switching Process In
+(Init:0)/0/189ms - Switching Process In
+(Init:0)/0/199ms - Switching Process In
+(Init:0)/0/209ms - Switching Process In
+(Init:0)/0/219ms - Switching Process In
+(Init:0)/0/229ms - Switching Process In
+(Init:0)/0/239ms - Switching Process In
+(Init:0)/0/249ms - Switching Process In
+(Init:0)/0/259ms - Switching Process In
+(Init:0)/0/269ms - Switching Process In
+(Init:0)/0/279ms - Switching Process In
+(Init:0)/0/289ms - Switching Process In
+(Init:0)/0/299ms - Switching Process In
+(Init:0)/0/309ms - Switching Process In
+(Init:0)/0/319ms - Switching Process In
+(Init:0)/0/329ms - Switching Process In
+(Init:0)/0/339ms - Switching Process In
+(Init:0)/0/349ms - Switching Process In
+(Init:0)/0/359ms - Switching Process In
+(Init:0)/0/369ms - Switching Process In
+(Init:0)/0/379ms - Switching Process In
+(Init:0)/0/389ms - Switching Process In
+(Init:0)/0/399ms - Switching Process In
+###-Sending Kill Message-###
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###
